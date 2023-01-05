@@ -12,7 +12,7 @@
 
 ## Abstract
 
-- 👨🏻‍🎓 PhD Student and holds a Master Degree at the Interinstitutional Graduate Program in International Relations San Tiago Dantas (UNESP, UNICAMP, PUC-SP). Bachelor in Internacional Relations at São Paulo State University (UNESP).
+- 👨🏻‍🎓 Doctoral Researcher at the Graduate Program in International Relations San Tiago Dantas (UNESP, UNICAMP, PUC-SP) with a scholarship awarded by the State of São Paulo Research Foundation (FAPESP). From September/2021 to August/2022 she was a visiting researcher at the Katholieke Universiteit Leuven, Belgium with a grant awarded by the Coordination of Superior Level Staff Improvement (CAPES), Brazil. Graduated in International Relations by the University of the State of São Paulo (UNESP), Brazil. Accomplished an academic exchange at the Instituto Politécnico Nacional, Mexico City, Mexico with a Santander Universities Scholarship. Computer Technician by the Industrial Technical School (CTI ? UNESP) in Bauru, São Paulo ? Brazil, having experience in the area of Computer Science. Researcher at the New Research Technologies Laboratory in International Relations (LANTRI), the Research Network in Regionalism and Integration (REPRI), and at the Regionalism Observatory (ODR). Research Interests: regionalism; regional governance; South-American regionalism; infrastructure development; Brazilian foreign policy analysis; regional institutions; Chinese investments; Belt and Road Initiative.
 
 - 💻 Researcher at the:
 - <a href="http://observatorio.repri.org/"> Regionalism Observatory (ODR)</a>
