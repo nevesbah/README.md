@@ -17,12 +17,12 @@
 - 💻 Researcher at the:
 - <a href="http://observatorio.repri.org/"> Regionalism Observatory (ODR)</a>
 - <a href="https://www.lantri.org/english"> The New Technologies Research Laboratory in International Relations (LANTRI) </a>
-- <a href="https://gridale.org/"> Reflection Group on Integration and development in Latin America and Europe </a> 
+- <a href="https://gridale.org/"> Reflection Group on Integration and development in Latin America and Europe (GRIDALE)</a> 
 
 ## Skills 🔧
 
-Programming Languages: C, C++, Java, PhP, JavaScript, Html.
-Softwares: Excell, Tableau, Recoll, ...
+- <a> Programming Languages: C, C++, Java, PhP, JavaScript, Html. </a>
+- <a> Softwares: Excell, Tableau, Recoll, ... </a>
 
 ## Connections
 - 🔗 <a href="https://scholar.google.com/citations?user=77EGh2UAAAAJ&hl=en"> Google Scholar </a> 
